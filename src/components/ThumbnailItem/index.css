@@ -1,0 +1,13 @@
+.thumbnail {
+  margin-right: 8px;
+  opacity: 0.5;
+}
+.selected {
+  opacity: 1;
+}
+.thumbnail-btn {
+  background-color: transparent;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}

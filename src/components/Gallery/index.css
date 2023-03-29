@@ -1,0 +1,22 @@
+.bg-container {
+  background-color: #ffffff;
+  height: 100vh;
+  padding: 50px;
+}
+.image {
+  max-width: 992px;
+  width: 100%;
+}
+.heading {
+  color: #1e293b;
+}
+.by {
+  color: #64748b;
+}
+.thumbnail-container {
+  display: flex;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  flex-wrap: wrap;
+}
